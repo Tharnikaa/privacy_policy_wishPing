@@ -1,7 +1,5 @@
 # Privacy Policy for WishPing
 
-**Effective Date:** July 24, 2026
-
 Welcome to **WishPing** ("Application", "we", "us", or "our"). We are committed to protecting your privacy. This Privacy Policy explains how the Application collects, uses, stores, and protects your information when you use WishPing, which is built as a local-first mobile application.
 
 ---
